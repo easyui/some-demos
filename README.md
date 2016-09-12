@@ -10,4 +10,4 @@ Xcode7.3.1 ,  >=iOS8 , Swift2.3
 
 Xcode7.3.1 ,  >=iOS8 , Swift2.3
 
-![效果图](/WriteTextAnimation/WriteTextAnimation)
+![效果图](/WriteTextAnimation/WriteTextAnimation.gif)
