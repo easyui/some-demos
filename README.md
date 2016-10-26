@@ -11,3 +11,11 @@ Xcode7.3.1 ,  >=iOS8 , Swift2.3
 Xcode7.3.1 ,  >=iOS8 , Swift2.3
 
 ![效果图](/WriteTextAnimation/WriteTextAnimation.gif)
+
+##VideoPlayButton
+draw的自定义播放按钮。
+
+Xcode8.0.0 ,  >=iOS8 , Swift3.0
+
+![效果图](/VideoPlayButton/VideoPlayButton.gif)
+
